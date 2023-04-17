@@ -1,0 +1,15 @@
+
+body{
+    background-color:#020724;
+}
+.drum{
+    margin-top: 200px;
+}
+.key{
+    border:2px solid white;
+    background-color: black;
+    cursor: pointer;
+}
+kbd{
+    background-color: black;
+}
